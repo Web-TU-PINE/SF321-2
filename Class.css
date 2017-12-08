@@ -1,0 +1,123 @@
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid green;
+    padding: 10px;
+}
+.redBox {
+  padding: 10px 0;
+  border: 3px solid green;
+  background: #E75159;
+  color: #D6FEFF;
+}
+.darkBlueBox {
+  padding: 10px 0;
+  border: 3px solid green;
+  background: #3D8CD2;
+  color: #D6FEFF;
+}
+.lightBlueBox {
+  padding: 10px 0;
+  border: 3px solid green;
+  background: #60BDDF;
+  color: #D6FEFF;
+}
+.textLeft {
+  text-align: left;
+}
+.textRight {
+  text-align: right;
+}
+.textCenter {
+  text-align: center;
+}
+.top10 {
+  top: 10%;
+  position: relative;
+  width: 100%;
+}
+.top20 {
+  top: 20%;
+  position: relative;
+  width: 100%;
+}
+.top30 {
+  top: 30%;
+  position: relative;
+  width: 100%;
+}
+.top40 {
+  top: 40%;
+  position: relative;
+  width: 100%;
+}
+.top50 {
+  top: 50%;
+  position: relative;
+  width: 100%;
+}
+.top60 {
+  top: 60%;
+  position: relative;
+  width: 100%;
+}
+.top70 {
+  top: 70%;
+  position: relative;
+  width: 100%;
+}
+.top80 {
+  top: 80%;
+  position: relative;
+  width: 100%;
+}
+.top90 {
+  top: 90%;
+  position: relative;
+  width: 100%;
+}
+.left10 {
+  left: 10%;
+  position: relative;
+  width: 80%;
+}
+.left20 {
+  left: 20%;
+  position: relative;
+  width: 60%;
+}
+.left30 {
+  left: 30%;
+  position: relative;
+  width: 40%;
+}
+.left40 {
+  left: 40%;
+  position: relative;
+  width: 20%;
+}
+.left50 {
+  left: 50%;
+  position: relative;
+  width: 100%;
+}
+.left60 {
+  left: 60%;
+  position: relative;
+  width: 100%;
+}
+.left70 {
+  left: 70%;
+  position: relative;
+  width: 100%;
+}
+.left80 {
+  left: 80%;
+  position: relative;
+  width: 100%;
+}
+.left90 {
+  left: 90%;
+  position: relative;
+  width: 100%;
+}
